@@ -1,0 +1,6 @@
+#Written by FileProperties
+#Sat Mar 25 00:02:18 JST 2023
+Google=Android
+Apple=iPhone
+Git=Hub
+DesignPattern=Adapter
