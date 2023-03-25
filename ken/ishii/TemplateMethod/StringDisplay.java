@@ -10,7 +10,6 @@ public class StringDisplay extends AbstractDisplay {
 
     public void open() {
         printLine();
-
     }
     public void print() {
         System.out.println("|" + string + "|");
@@ -18,7 +17,6 @@ public class StringDisplay extends AbstractDisplay {
     }
     public void close() {
         printLine();
-
     }
 
     private void printLine() {
