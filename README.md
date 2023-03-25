@@ -4,7 +4,7 @@
 - Builder
 - [Factory Method](./ken/ishii/FactoryMethod/)
 - Prototype
-- Singleton
+- [Singleton](./ken/ishii/Singleton/)
 ## 構造に関するパターン
 - [Adapter](./ken/ishii/Adapter/)
 - Bridge
