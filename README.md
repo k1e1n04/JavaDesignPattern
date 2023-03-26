@@ -3,7 +3,7 @@
 - Abstract factory
 - Builder
 - [Factory Method](./ken/ishii/FactoryMethod/)
-- Prototype
+- [Prototype](./ken/ishii/Prototype/)
 - [Singleton](./ken/ishii/Singleton/)
 ## 構造に関するパターン
 - [Adapter](./ken/ishii/Adapter/)
