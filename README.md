@@ -1,6 +1,6 @@
 # JavaDesignPattern
 ## 生成に関するパターン
-- Abstract factory
+- [Abstract factory](./ken/ishii/AbstractFactory/)
 - [Builder](./ken/ishii/Builder/)
 - [Factory Method](./ken/ishii/FactoryMethod/)
 - [Prototype](./ken/ishii/Prototype/)
